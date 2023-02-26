@@ -1,4 +1,4 @@
-<h1 align="center">Yo:v👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">Hello There:v<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
   <img src="https://github.com/harunkunwenker/harunkunwenker/blob/main/icon/106.jpg?raw=true" />
 </p>
@@ -6,6 +6,7 @@
 <p align="center">
 
 - 👼 My name is Rafly~
+- 🗣️ I am 18 years old 
 - 🔭 I am not programmer
 
 </p>
@@ -14,9 +15,9 @@
 ### Connect with me ☎️
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=6281234795656&text=Hai+orang+ganteng%3Av&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
-     <br><a name=Rafly11&label=VIEWS&style=flat-square&color=green" />
-  <a href="https://github.com/dragneel1111"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-       <a name=Rafly1@&label=VIEWS&style=flat-square&color=green" /></br>
+     <br><a name=harunkunwenker&label=VIEWS&style=flat-square&color=green" />
+  <a href="https://github.com/harunkunwenker"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+       <a name=harunkunwenker&label=VIEWS&style=flat-square&color=green" /></br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views">
     <img title="Watching" src="https://komarev.com/ghpvc/?username=harunkunwenker&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
@@ -27,10 +28,6 @@
 
 <p align="center"><a href="https://github.com/dragneel1111/Rafly11"><img src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/dragneel1111/Rafly11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragneel1111&show_icons=true&theme=radical&langs_count=8"></a></p> 
-
-### Repo Stats 🔭
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=Rafly11&show_icons=true&theme=tokyonight)
 
 
 <p align="center">
