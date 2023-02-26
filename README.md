@@ -14,9 +14,9 @@
 ### Connect with me ☎️
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=6281234795656&text=Hai+orang+ganteng%3Av&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
-     <br><a name=harunkunwenker&label=VIEWS&style=flat-square&color=green" />
+     <br><a name=Rafly11&label=VIEWS&style=flat-square&color=green" />
   <a href="https://github.com/dragneel1111"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-       <a name=harunkunwenker&label=VIEWS&style=flat-square&color=green" /></br>
+       <a name=Rafly1@&label=VIEWS&style=flat-square&color=green" /></br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views">
     <img title="Watching" src="https://komarev.com/ghpvc/?username=harunkunwenker&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
@@ -25,12 +25,12 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunkunwenker&show_icons=true&theme=radical&langs_count=8"></a></p> 
+<p align="center"><a href="https://github.com/dragneel1111/Rafly11"><img src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/dragneel1111/Rafly11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragneel1111&show_icons=true&theme=radical&langs_count=8"></a></p> 
 
 ### Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=dragneel1111&show_icons=true&theme=tokyonight)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=Rafly11&show_icons=true&theme=tokyonight)
 
 
 <p align="center">
