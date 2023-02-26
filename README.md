@@ -1,4 +1,4 @@
-<h1 align="center">It's Me<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">Yo:v👋<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
   <img src="https://github.com/harunkunwenker/harunkunwenker/blob/main/icon/106.jpg?raw=true" />
 </p>
@@ -25,15 +25,12 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api?username=harunkunwenker&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunkunwenker&show_icons=true&theme=radical&langs_count=8"></a></p> 
 
 ### Repo Stats 🔭
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=dragneel1111&show_icons=true&theme=tokyonight)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=secure-copy-content-protection&show_icons=true&theme=dracula)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=bootstrap.min.css&show_icons=true&theme=onedark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dragneel1111&repo=transparent-login-form&show_icons=true&theme=nightowl)
 
 
 <p align="center">
