@@ -24,11 +24,13 @@
 
 ------
 
-### Github Stats 🚀
+### Github Statistik
 
-<p align="center"><a href="https://github.com/dragneel1111/dragneel111"><img src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunkunwenker&show_icons=true&theme=radical&langs_count=8"></a></p> 
+![Github stat](https://github-readme-stats.vercel.app/api?username=dragneel1111&theme=highcontrast&show_icons=true) 
 
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harunkunwenker&theme=great-gatsby)
+
+![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragneel1111&theme=monokai)
 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
