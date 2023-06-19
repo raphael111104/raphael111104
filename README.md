@@ -26,7 +26,6 @@
 
 ### Github Statistik
 
-![Github stat](https://github-readme-stats.vercel.app/api?username=dragneel1111&theme=highcontrast&show_icons=true) 
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragneel1111&theme=great-gatsby)
 
