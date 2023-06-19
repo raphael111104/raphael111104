@@ -19,7 +19,7 @@
      <br><a name=dragneel1111&label=VIEWS&style=flat-square&color=green" />
   <a href="https://github.com/dragneel1111"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
        <a name=dragneel1111&label=VIEWS&style=flat-square&color=green" /></br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views">
+  <a href="https://komarev.com/ghpvc/?username=dragneel1111&color=blue&style=flat-square&label=Profile+Views">
     <img title="Watching" src="https://komarev.com/ghpvc/?username=dragneel1111&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
