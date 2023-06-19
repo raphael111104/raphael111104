@@ -14,7 +14,7 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://api.whatsapp.com/send/?phone=6281234795656&text=Hai+orang+ganteng%3Av&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
+  <a href="https://api.whatsapp.com/send/?phone=447466989823&text=Hai+orang+ganteng%3Av&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
      <br><a name=dragneel1111&label=VIEWS&style=flat-square&color=green" />
   <a href="https://github.com/dragneel1111"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
        <a name=dragneel1111&label=VIEWS&style=flat-square&color=green" /></br>
