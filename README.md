@@ -30,6 +30,8 @@
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragneel1111&theme=great-gatsby)
 
+![Github Statystic](https://github-readme-streak-stats.herokuapp.com?user=dragneel1111&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF)
+
 ![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragneel1111&theme=monokai)
 
 <p align="center">
