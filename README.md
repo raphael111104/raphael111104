@@ -4,15 +4,20 @@
     <img src="https://i.ibb.co/HYvLwF2/106.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-<p align="center">
-
-- 👼 My name is Rafly~
-- 🗣️ I am 18 years old 
+------
+## About Me
+### Biodata
+- 👼 My name is Rafly A.
+- 🗣️ I am 19 years old
 - 🔭 I am not programmer
 
-</p>
+### I'm Still Learning:
+- HTML
+- CSS
+- JavaScript
+- Java
+- C
 
-------
 ### Connect with me ☎️
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=6281234795656&text=Hai+orang+ganteng%3Av&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
@@ -27,6 +32,7 @@
 
 ### Github Statistik
 
+111"><img src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=radical"></a>
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragneel1111&theme=great-gatsby)
 
