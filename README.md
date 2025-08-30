@@ -13,11 +13,11 @@
 </p>
 
 <!-- Views only -->
-<p align="center">
+<!--<p align="center">
   <a href="https://komarev.com/ghpvc/?username=raphael111104&color=blue&style=for-the-badge&label=Profile+Views">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=raphael111104&color=blue&style=for-the-badge&label=Profile+Views">
   </a>
-</p>
+</p>-->
 
 ---
 
