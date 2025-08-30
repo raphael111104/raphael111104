@@ -1,10 +1,10 @@
 <!-- =========================================================
-✨ Clean & Modern GitHub Profile – by @dragneel1111
+✨ Clean & Modern GitHub Profile – by @raphael111104
 ========================================================= -->
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://github.com/dragneel1111.png?size=240" alt="avatar" width="140" style="border-radius: 50%;"/>
+  <img src="https://github.com/raphael111104.png?size=240" alt="avatar" width="140" style="border-radius: 50%;"/>
 </p>
 
 <!-- Headline -->
@@ -14,8 +14,8 @@
 
 <!-- Views only -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=dragneel1111&color=blue&style=for-the-badge&label=Profile+Views">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dragneel1111&color=blue&style=for-the-badge&label=Profile+Views">
+  <a href="https://komarev.com/ghpvc/?username=raphael111104&color=blue&style=for-the-badge&label=Profile+Views">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=raphael111104&color=blue&style=for-the-badge&label=Profile+Views">
   </a>
 </p>
 
@@ -90,26 +90,26 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dragneel1111&show_icons=true&theme=tokyonight&hide_border=true" alt="Rafli's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dragneel1111&theme=tokyonight&hide_border=true" alt="Rafli's GitHub streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raphael111104&show_icons=true&theme=tokyonight&hide_border=true" alt="Rafli's GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=raphael111104&theme=tokyonight&hide_border=true" alt="Rafli's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragneel1111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragneel1111&theme=tokyonight" alt="Profile Details" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael111104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael111104&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <details>
   <summary>🏆 GitHub Trophies</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=dragneel1111&column=7&theme=onedark&no-frame=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=raphael111104&column=7&theme=onedark&no-frame=true" alt="trophies"/>
 </details>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://github.com/dragneel1111"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/raphael111104"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" /></a>
   <a href="https://api.whatsapp.com/send/?phone=6281234795656&text=Hai%20orang%20ganteng%20:v&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
 </p>
 
