@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/12/28/05/57/pixel-art-8473274_1280.jpg" alt="Pixel art neon city at night" width="100%" style="border-radius: 10px;" />
-</p>
-
-<p align="center">
   <img src="https://github.com/raphael111104.png?size=240" alt="Rafli A. avatar" width="130" style="border-radius: 50%; border: 4px solid #38B2AC;" />
 </p>
 
@@ -19,7 +15,7 @@
 
 ---
 
-## Profile
+## Academic Profile
 
 I am **Rafli A.**, an Information Technology and Systems Education student at the **Indonesia University of Education** with an interest in full-stack web development, data analytics, and evidence-based digital product development.
 
