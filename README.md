@@ -15,7 +15,7 @@
 
 ---
 
-## Academic Profile
+## Profile
 
 I am **Rafli A.**, an Information Technology and Systems Education student at the **Indonesia University of Education** with an interest in full-stack web development, data analytics, and evidence-based digital product development.
 
